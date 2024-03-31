@@ -1,7 +1,12 @@
+import Description from '../Description/Description';
 import './App.css';
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <Description></Description>
+    </>
+  );
 }
 
 export default App;
